@@ -16,7 +16,7 @@
 #define ADJUST 3
 
 / {
-    // Activate ADJUST layer by pressing raise and lower (modified to trigger build system)
+    // Activate ADJUST layer by pressing raise and lower
 
     conditional_layers {
         compatible = "zmk,conditional-layers";
